@@ -1,0 +1,57 @@
+.active {
+    width: 240px;
+    height: 48px;
+    background: #F33823;
+    border-radius: 5px;
+    color: white;
+    transition-duration: 600ms;
+}
+
+.active:hover {
+    width: 240px;
+    height: 48px;
+    background: #F33823;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+.manageStudent-heading {
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    color: #000000;
+    margin-bottom: 30px;
+}
+
+.table-heading-color {
+    background: #F33823;
+    border-radius: 15px 15px 0px 0px;
+    color: white;
+    width: 700px;
+    height: 48px;
+}
+
+.student-table {
+    width: 950px;
+}
+
+.table-border{
+    border: 1px solid  #FFFCFB;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+.dropdown{
+    border: 1px solid rgba(128, 128, 128, 0.384);
+    width: 305px;
+}
+.addStudent-button{
+    width: 32%;
+    background-color: #F33823;
+    color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+    height: 48px;
+}
